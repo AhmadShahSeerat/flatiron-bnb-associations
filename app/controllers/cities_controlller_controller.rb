@@ -1,0 +1,2 @@
+class CitiesControlllerController < ApplicationController
+end
